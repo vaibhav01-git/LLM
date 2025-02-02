@@ -1,2 +1,2 @@
 # LLM
-multilanguage invoice text extraction and recognition 
+multilanguage invoice text extraction and Recognition
